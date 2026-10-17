@@ -1,0 +1,15 @@
+h1 {
+    font-family: Segoe UI;
+    color: navy;
+    background-color: lightgoldenrodyellow;
+}
+
+.welcomepage {
+    font-size: 20px;
+    background-color: lightgrey;
+}
+
+.sideparagraph {
+    font-size: 20px;
+    background-color: lightcoral;
+}
